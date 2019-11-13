@@ -1,2 +1,2 @@
 # ArquivosDaGraduacao
-Graduando em Sistemas de Informacao pela Universidade Federal da Paraiba
+Graduando em Sistemas de Informacao(2019.1) pela Universidade Federal da Paraiba.
