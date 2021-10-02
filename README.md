@@ -1,3 +1,3 @@
 # ArquivosDaGraduacao
 
-Pequeno Circuito elétrico.
+Ilustrando de um equeno Circuito elétrico utilizando **portas lógicas**.
