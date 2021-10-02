@@ -1,3 +1,3 @@
 # ArquivosDaGraduacao
 
-Ilustrando de um equeno Circuito elétrico utilizando **portas lógicas**.
+Ilustrando  um equeno Circuito elétrico utilizando **portas lógicas**.
